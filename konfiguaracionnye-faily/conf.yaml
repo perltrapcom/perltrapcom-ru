@@ -1,0 +1,7 @@
+---
+parallel-level: 4
+timeout: 50
+verbose: 0
+port: 10018
+locale: UTF-8
+
